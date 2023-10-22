@@ -280,7 +280,7 @@
    */
   window.addEventListener('load', () => {
     AOS.init({
-      duration: 1000,
+      duration: 700,
       easing: 'ease-in-out',
       once: true,
       mirror: false
